@@ -1,4 +1,3 @@
-from matplotlib.pyplot import title
 import pygame
 from pygame import *
 from abc import ABC, abstractmethod, ABCMeta

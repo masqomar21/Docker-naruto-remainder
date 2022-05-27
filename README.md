@@ -19,8 +19,9 @@ player diminta untuk mencari dua buah kartu yang sama. tujuan dari ini adalah me
 dari game ini adalah player harus mencari pasangan setiap katru yang tersedia dalam batas waktu yang ditentukan.
 permainan ini terdapat 5 level, yang setiap level nya memiliki jumlah kartu dan waktu yang berbeda.
 ## Cara Menjalankan Kontainer
-Clone repositori ini atau [unduh disini](https://github.com/masQ-21dev/Docker-naruto-remainder/archive/refs/heads/main.zip) 
-lalu pindahkan pygame scripts ke folder `~/Downloads` seperti pada gambar berikut:
+Clone repositori ini atau [unduh disini](https://github.com/masQ-21dev/Docker-naruto-remainder/archive/refs/heads/main.zip), dan pastikan folder dari repositori tersebut berada di drictory `~/Documents`.
+jika tida, pindahkan folder dari repo tersebut ke folder `~/Documents` seperti pada gambar berikut:
+<img alt="Dockument" src="">
 
 Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah build seperti berikut:
 
