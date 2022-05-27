@@ -16,7 +16,6 @@ class Music:
     def isplaying(self):
         return self.music.get_busy()
 
-
 class sound_effect:
 
     def __init__(self, path):
