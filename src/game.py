@@ -122,6 +122,7 @@ class Game:
         
     def cek_complete(self, event_list):
         if not self.end_time :
+            self.coundown()
             if not self.block_game :
                 for event in event_list :
                     if event.type == pygame.MOUSEBUTTONDOWN and event.button == 1 :
@@ -219,7 +220,7 @@ class Game:
             if event.type == pygame.KEYDOWN :
                 if event.key == pygame.K_SPACE and self.level_complete :
                     self.playing = False
-        self.coundown()
+        # self.coundown()
 
     def generete_level(self, level):
         self.card = self.random_select_card(self.level)
