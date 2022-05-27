@@ -21,7 +21,7 @@ permainan ini terdapat 5 level, yang setiap level nya memiliki jumlah kartu dan 
 ## Cara Menjalankan Kontainer
 Clone repositori ini atau [unduh disini](https://github.com/masQ-21dev/Docker-naruto-remainder/archive/refs/heads/main.zip), dan pastikan folder dari repositori tersebut berada di drictory `~/Documents`.
 jika tida, pindahkan folder dari repo tersebut ke folder `~/Documents` seperti pada gambar berikut:
-<img alt="Dockument" src="">
+<img alt="Dockument" src="https://github.com/masQ-21dev/Docker-naruto-remainder/blob/main/assets/images/save_Documents.png">
 
 Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah build seperti berikut:
 
