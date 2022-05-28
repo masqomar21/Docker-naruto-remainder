@@ -27,7 +27,7 @@ Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah 
 
     make build-naruto-remainder
 
-lalu pastikan ada repositori "dendamsitikus" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
+lalu pastikan ada repositori "Docker-naruto-remainder" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
 
     docker images
 
