@@ -47,6 +47,6 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
 ## container ini hanya bisa di jalanakan di terminal linux dan mac, tidak dapat dijalakan di windows karena di windows tidak terdapat X11
 ## Video Demo Kontainer
 
-[![LIHAT VIDEO DISINI](http://img.youtube.com/vi/SO_tl0iAmhU/0.jpg)](http://www.youtube.com/watch?v=SO_tl0iAmhU)
+[![LIHAT VIDEO DISINI](http://img.youtube.com/vi/ZoOOfoXbzjg/0.jpg)](http://www.youtube.com/watch?v=ZoOOfoXbzjg)
 
 KLIK GAMBAR UNTUK MELIHAT VIDEO
