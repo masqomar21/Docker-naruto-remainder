@@ -32,11 +32,11 @@ lalu pastikan ada repositori "dendamsitikus" pada docker, dengan cara jalankan c
     docker images
 
 Jika proses build telah selesai, jalankan perintah run seperti berikut:
-untuk Linux
+##### untuk Linux
 
     make run-linux
 
-untuk Mac
+##### untuk Mac
 
     make run-mac
 
