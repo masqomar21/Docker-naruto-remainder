@@ -25,18 +25,13 @@ jika tida, pindahkan folder dari repo tersebut ke folder `~/Documents` seperti p
 
 Selanjutnya buka terminal pada direktori folder tersebut lalu jalankan perintah build seperti berikut:
 
-    make build-dendamsitikus
+    make build-naruto-remainder
 
 lalu pastikan ada repositori "dendamsitikus" pada docker, dengan cara jalankan command images untuk melihat daftar images pada local storage seperti berikut:
 
     docker images
 
 Jika proses build telah selesai, jalankan perintah run seperti berikut:
-
-untuk Windows
-
-    make run-windows
-
 untuk Linux
 
     make run-linux
@@ -49,6 +44,7 @@ Langkah terakhir yaitu menjalankan pygame melalui container yang telah kita buat
 
     python3 -m main.py
 
+## container ini hanya bisa di jalanakan di terminal linux dan mac, tidak dapat dijalakan di windows karena di windows tidak terdapat X11
 ## Video Demo Kontainer
 
 [![LIHAT VIDEO DISINI](http://img.youtube.com/vi/SO_tl0iAmhU/0.jpg)](http://www.youtube.com/watch?v=SO_tl0iAmhU)

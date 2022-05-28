@@ -16,7 +16,7 @@ class Game:
         #font family
         self.WIDTH, self.HEIGTH = 1180, 700
 
-        self.FPS = 60
+        self.FPS = 24
         self.SCREEN = pygame.display.set_mode((self.WIDTH, self.HEIGTH))
 
         self.font_title = font.Font("assets/font/njnaruto.ttf", 44)
